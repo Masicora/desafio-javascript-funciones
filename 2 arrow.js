@@ -4,4 +4,4 @@ suma = function (a, b) {
 };
 
 //arrow function
-suma = (a, b) => a + b;//declaración de función
+suma = (a, b) => a + b;
